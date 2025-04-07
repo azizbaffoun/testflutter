@@ -3,7 +3,19 @@
 ## Overview
 This Flutter application automates the integration of the Google Maps package into Flutter projects. It provides a streamlined workflow for developers to quickly add and configure Google Maps in their applications.
 
-![Demo Screenshot](https://i.ibb.co/ZHbFZK2/automated-package-integrator.png)
+## Screenshots
+
+### Project Selection Screen
+![Project Selection Screen](screenshot/1.png)
+
+### Package Integration Screen
+![Package Integration Screen](screenshot/2.png)
+
+### API Key Configuration Screen
+![API Key Configuration](screenshot/3.png)
+
+### Platform Configuration Screen
+![Platform Configuration](screenshot/4.png)
 
 ## Features
 

@@ -7,6 +7,7 @@
 !pubspec.lock
 !README.md
 !.gitignore
+!screenshot/
 
 # Then exclude most of lib except UI
 lib/*
