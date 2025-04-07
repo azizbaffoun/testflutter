@@ -66,7 +66,7 @@ For the full version with complete functionality, please contact me directly to 
 
 For business inquiries, full version access, or custom development needs, please contact me at:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [azizbaffoun67@gmail.com](mailto:azizbaffoun67@gmail.com)
 - GitHub: [Your GitHub Profile](https://github.com/yourusername)
 
 ---
