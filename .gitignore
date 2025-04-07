@@ -8,6 +8,18 @@
 !README.md
 !.gitignore
 !screenshot/
+# Allow release build
+!build/
+build/*
+!build/windows/
+build/windows/*
+!build/windows/x64/
+build/windows/x64/*
+!build/windows/x64/runner/
+build/windows/x64/runner/*
+!build/windows/x64/runner/Release/
+build/windows/x64/runner/Release/*
+!build/windows/x64/runner/Release/automated_package_integrator.exe
 
 # Then exclude most of lib except UI
 lib/*
