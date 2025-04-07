@@ -71,7 +71,7 @@ For business inquiries, full version access, or custom development needs, please
 
 ---
 
-© 2023 Your Name. All rights reserved.
+© 2025 Aziz. All rights reserved.
 
 
 
